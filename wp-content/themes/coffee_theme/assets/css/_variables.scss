@@ -1,0 +1,21 @@
+
+/*--- FONTS ---*/
+
+$f-main: "AvenirNextCyr-Regular";
+$f-med: "AvenirNextCyr-Medium";
+$f-bold: "AvenirNextCyr-Bold";
+$f-Lin: "LinLibertine";
+
+/*--- COLORS ---*/
+
+$color-dark: #121212;
+$color-braun: #402F22;
+$color-soft-braun: #F4F0EC;
+$color-soft-gray: #F5F4F4;
+
+/*--- Gred ---*/
+@media (min-width: 1200px){
+  .container {
+    max-width: 1200px;
+  }
+}

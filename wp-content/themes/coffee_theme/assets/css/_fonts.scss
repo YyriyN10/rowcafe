@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "AvenirNextCyr-Bold";
+  src: url("../fonts/AvenirNextCyr-Bold.woff") format("woff"),
+  url("../fonts/AvenirNextCyr-Bold.woff2") format("woff2"),
+  url("../fonts/AvenirNextCyr-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap; //обязательно
+}
+
+@font-face {
+  font-family: "AvenirNextCyr-Medium";
+  src: url("../fonts/AvenirNextCyr-Medium.woff") format("woff"),
+url("../fonts/AvenirNextCyr-Medium.woff2") format("woff2"),
+url("../fonts/AvenirNextCyr-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap; //обязательно
+}
+
+@font-face {
+  font-family: "AvenirNextCyr-Regular";
+  src: url("../fonts/AvenirNextCyr-Regular.woff") format("woff"),
+url("../fonts/AvenirNextCyr-Regular.woff2") format("woff2"),
+url("../fonts/AvenirNextCyr-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap; //обязательно
+}
+
+@font-face {
+  font-family: "LinLibertine";
+  src: url("../fonts/LinLibertine.woff") format("woff"),
+url("../fonts/LinLibertine_R.woff2") format("woff2"),
+url("../fonts/LinLibertine.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap; //обязательно
+}
+
+

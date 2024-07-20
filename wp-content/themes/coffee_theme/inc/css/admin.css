@@ -1,0 +1,17 @@
+.acf-accordion-title{
+    background-color:#4d96b4!important;
+    color:#fff;
+}
+.acf-fc-layout-handle{
+    background-color:#4d96b4!important;
+}
+/*#toplevel_page_edit-post_type-acf-field-group{*/
+/*display: none!important;*/
+/*}*/
+
+.inventory_options {
+    display: none;!important;
+}
+#edittag {
+    max-width: none;
+}

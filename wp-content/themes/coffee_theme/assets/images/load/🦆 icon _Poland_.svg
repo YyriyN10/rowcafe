@@ -1,0 +1,28 @@
+<svg width="32" height="24" viewBox="0 0 32 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#240;&#159;&#166;&#134; icon &#34;Poland&#34;">
+<g id="Mask group">
+<mask id="mask0_1338_4009" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="24">
+<g id="Group">
+<path id="Vector" d="M0 0H32V24H0V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1338_4009)">
+<g id="Group_2">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V24H32V0H0Z" fill="#F7FCFF"/>
+<g id="Mask group_2">
+<mask id="mask1_1338_4009" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="24">
+<g id="Group_3">
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V24H32V0H0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_1338_4009)">
+<g id="Group_4">
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M0 12V24H32V12H0Z" fill="#C51918"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

@@ -26,7 +26,7 @@ define( 'DB_NAME', 'row_coffee' );
 define( 'DB_USER', 'root' );
 
 /** Пароль к базе данных MySQL */
-define( 'DB_PASSWORD', 'password' );
+define( 'DB_PASSWORD', 'myDBpass100!' );
 
 /** Имя сервера MySQL */
 define( 'DB_HOST', 'localhost' );

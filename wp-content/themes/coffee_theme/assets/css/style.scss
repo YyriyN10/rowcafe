@@ -1400,29 +1400,13 @@
           }
         }
 
-        .city-name{
+        .country-name{
           display: flex;
           align-items: center;
           margin-bottom: 24px;
+          justify-content: space-between;
 
-          .flag{
-            width: 32px;
-            height: auto;
-            margin-right: 18px;
-
-            @media(max-width: 440px){
-              width: 28px;
-              margin-right: 16px;
-            }
-
-            .svg-pic,
-            svg{
-              width: 100%;
-              height: auto;
-            }
-          }
-
-          .city{
+          .country{
             width: calc(100% - 50px);
             margin: 0;
             font-size: 24px;
@@ -1432,6 +1416,38 @@
             @media(max-width: 440px){
               font-size: 22px;
               width: calc(100% - 44px);
+            }
+          }
+
+          flag{
+            width: 32px;
+            height: auto;
+
+            @media(max-width: 440px){
+              width: 28px;
+            }
+
+            .svg-pic,
+            svg{
+              width: 100%;
+              height: auto;
+            }
+          }
+        }
+
+        .city-name{
+          display: flex;
+          align-items: center;
+          margin-bottom: 24px;
+
+          .city{
+            margin: 0;
+            font-size: 18px;
+            font-family: $f-Lin;
+            color: $color-dark;
+
+            @media(max-width: 440px){
+              font-size: 16px;
             }
           }
         }
